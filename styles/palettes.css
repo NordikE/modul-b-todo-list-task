@@ -1,8 +1,8 @@
 /* A set of premade colors, pick your poison */
 :root {
-  --color-primary: rgb(64, 123, 234);
-  --color-secondary: rgb(255, 116, 66);
-  --color-accent: rgb(162, 72, 165);
+  --color-primary: #132a13;
+  --color-secondary: #ecf39e;
+  --color-accent: #4f772d;
   --color-gray: rgb(40, 40, 45);
   --color-white: #f0f0f0;
   --color-black: #0f0f0f;

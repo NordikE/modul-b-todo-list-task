@@ -1,15 +1,15 @@
 /**
  * Returns all the Todoes in a list
  *
- * @returns {Todo}
+ * @returns {Task}
  */
-export function getAllTodoes() {}
+export function getAllTasks() {}
 
 /**
  * Creates a new Todo based on the passed
  * in data
  *
- * @param {TodoCreationInfo} data
- * @returns {Todo}
+ * @param {TaskCreationInfo} data
+ * @returns {Task}
  */
-export function addTodo(data) {}
+export function addTask(data) {}
